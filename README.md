@@ -1,5 +1,5 @@
 # CG_LAP_PROGRAMS
-Lab programs of computer graphics
+Lab Programs of Computer Graphics
 
 Name : AJAY JADHAV
 
