@@ -1,5 +1,7 @@
 # CG_LAP_PROGRAMS
 Lab Programs of Computer Graphics
+Project - Report
+Lab Record - (pdf format)
 
 Name : AJAY JADHAV
 
